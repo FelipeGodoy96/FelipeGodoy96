@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FelipeGodoy96
-- 👀 I’m interested in becoming a senior full-stack developer in the midtime of 5~10 years
-- 🌱 I’m currently learning the basics, through Certified Tech Developer by Digital House powered by Globant and MercadoLivre
-- 💞️ I’m looking to collaborate on evolve and participate in the developer community 
+- 👀 I’m interested in frontend projects, game development as hobby, and working to help human evolution!
+- 🌱 I’m currently in specialization through the Certied Tech Developer course by Digital House/Rocketseat powered by Mercado Livre and Globant.
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-godoy-00186812b/, https://www.facebook.com/profile.php?id=100005080634086
 
 <!---
