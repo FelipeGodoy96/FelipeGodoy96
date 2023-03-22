@@ -19,28 +19,57 @@ Tenho estudado as principais linguagens e frameworks de desenvolvimento Web nos 
 
 <br/>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="left"
-      height="150"
+      height="50%"
+      width="auto"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGodoy96&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="right"
-      height="150"
+      height="50%"
+      width="auto"
       src="https://github-readme-stats.vercel.app/api?username=FelipeGodoy96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
    </a>
    <a href="https://github.com/">
     <img 
-         align="center"
-         height="150"
-         src="https://github-readme-streak-stats.herokuapp.com?user=FelipeGodoy96&theme=dark&hide_border=true">
+         src="https://github-readme-streak-stats.herokuapp.com?user=FelipeGodoy96&theme=dracula&hide_border=true&background=FFFFFF00">
   </a>
-  </div>
+  </p>
+  
+### Minhas habilidades
+
+<br/>
+<div align="center">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" >
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+</br>
+</br>
+
+### Contato
+
+  
 
 <!---
 FelipeGodoy96/FelipeGodoy96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
