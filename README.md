@@ -69,8 +69,13 @@ Tenho estudado as principais linguagens e frameworks de desenvolvimento Web nos 
 
 ### Contato
 
-<p align="center">
-  teste
+<p align="left">
+  <a href= "https://github.com/FelipeGodoy96/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/felipegodoy-dev/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
 </p>
 
   
