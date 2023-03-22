@@ -69,7 +69,15 @@ Tenho estudado as principais linguagens e frameworks de desenvolvimento Web nos 
 
 ### Contato
 
+<p align="center">
+  teste
+</p>
+
   
+### Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/FelipeGodoy96/count.svg" />
+ </p>
 
 <!---
 FelipeGodoy96/FelipeGodoy96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
