@@ -12,8 +12,8 @@ Meu nome é Felipe Godoy, tenho 26 anos e estou mergulhando nos oceanos da tecno
 ### Sobre mim
 
 Tenho estudado as principais linguagens e frameworks de desenvolvimento Web nos últimos anos e estou em busca cada vez mais de conhecimento e desenvolver novas habilidades para desempenhar bem no mercado de trabalho.
-- Estudando: Java, JavaScript, Spring Boot, Hibernate/JPA, MySQL, ReactJS, TypeScript, Redux
-- Interesses (fila de estudos 😅): React Native, NextJS, Clean Code, SOLID, JEST, GraphQL, Jenkins, Docker Compose, Kubernetes, Load Balancer, Eureka, etc...
+- Estudando: Java, JavaScript, Spring Boot, Hibernate/JPA, PostgreSQL, MySQL, ReactJS, Eureka
+- Interesses (fila de estudos 😅): React Native, NextJS, Clean Code, SOLID, JEST, GraphQL, Jenkins, Docker Compose, Kubernetes, Load Balancer, TypeScript, Redux, etc...
 - Gosto de fisiculturismo/musculação e pretendo voltar a treinar em breve 💪
 - Jesus is the King 🦁
 
