@@ -1,4 +1,4 @@
-# Olá, é um prazer ter você aqui!  😄 
+# Olá, seja bem vindo ao meu GitHub! 
 
 ## Quem sou eu
 <p align="center">
@@ -7,13 +7,12 @@
   </a>
 <p/>
 
-Meu nome é Felipe Godoy, tenho 26 anos e estou mergulhando nos oceanos da tecnologia e desenvolvimento Web como Fullstack!
+Meu nome é Felipe Godoy, moro em Portugal e sou programador fullstack web.
 
 ### Sobre mim
 
 Tenho praticado com as principais linguagens e frameworks de desenvolvimento Web nos últimos anos e estou em busca cada vez mais de conhecimento e desenvolver novas habilidades para desempenhar bem no mercado de trabalho.
 - Conhecimentos: Java, JavaScript, Spring Boot, Hibernate/JPA, PostgreSQL, MySQL, ReactJS, Eureka
-- Interesses (fila de estudos 😅): React Native, NextJS, Clean Code, SOLID, JEST, GraphQL, Jenkins, Docker Compose, Kubernetes, Load Balancer, TypeScript, Redux, etc...
 - Gosto de fisiculturismo/musculação e pretendo voltar a treinar em breve 💪
 - Jesus is the King 🦁
 
