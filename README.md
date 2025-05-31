@@ -7,14 +7,19 @@
   </a>
 <p/>
 
-Meu nome é Felipe Godoy, moro em Portugal e sou programador fullstack web.
+Meu nome é Felipe Godoy, sou imigrante brasileiro em Portugal, entusiasta e apaixonado por tecnologia.
 
 ### Sobre mim
 
-Tenho praticado com as principais linguagens e frameworks de desenvolvimento Web nos últimos anos e estou em busca cada vez mais de conhecimento e desenvolver novas habilidades para desempenhar bem no mercado de trabalho.
-- Conhecimentos: Java, JavaScript, Spring Boot, Hibernate/JPA, PostgreSQL, MySQL, ReactJS, Eureka
-- Gosto de fisiculturismo/musculação e pretendo voltar a treinar em breve 💪
-- Jesus is the King 🦁
+Atualmente estou em transição estratégica da área de atendimento ao cliente para a área de tecnologia. Tenho uma base sólida em desenvolvimento web fullstack e uma mente orientada para automação e melhoria de processos, tenho explorado intensamente projetos práticos que envolvem desde bots autônomos até scripts que otimizam tarefas empresariais do dia a dia.
+
+Nos últimos anos, meu foco tem sido aprofundar habilidades técnicas em ambientes Linux, automação com Python, e infraestrutura em cloud e containers (AWS, Docker, Ansible). Paralelamente, mantenho vivas minhas raízes em comunicação e suporte, trazendo para a área técnica a sensibilidade de quem já lidou diretamente com o cliente final.
+
+Atualmente trabalho com suporte inbound técnico, ao mesmo tempo em que estudo tecnologias de cloud e automação com o objetivo de atuar futuramente como DevOps Engineer ou Automation Specialist. Acredito que a tecnologia só tem valor real quando resolve problemas — e é com essa mentalidade que construo meus projetos e contribuo com as equipes.
+
+Também estou trabalhando paralelamente num projeto pessoal que engloba todos os conhecimentos de áreas de tecnologia e desenvolvimento em um projeto só: um MMORPG. Mais detalhes por enquanto fica em segredo hehe
+
+No GitHub você vai encontrar os bastidores dessa jornada: automações úteis, experimentos técnicos e provas de que a curiosidade pode se transformar em impacto.
 
 <br/>
 
