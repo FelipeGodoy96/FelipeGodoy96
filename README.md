@@ -11,7 +11,7 @@ Meu nome é Felipe Godoy, sou imigrante brasileiro em Portugal, entusiasta e apa
 
 ### Sobre mim
 
-Atualmente estou em transição para área de TI, buscando mais especificamente cargos como DevOps ou Cloud Engineer. Tenho uma base em desenvolvimento web e uma enorme curiosidade e vontade de aprender, de maneira que a agregar conhecimento unindo praticidade para meus projetos. 
+Atualmente estou em transição para área de TI, buscando mais especificamente cargos como DevOps ou Cloud Engineer. Tenho uma base em desenvolvimento web e uma enorme curiosidade e vontade de aprender, de maneira a agregar conhecimento unindo praticidade para meus projetos. 
 
 Nos últimos anos, meu foco tem sido aprofundar habilidades técnicas em ambientes Linux, automação com Python, programação em C++, infraestrutura em cloud e containers (AWS, Docker, IaC). Paralelamente, mantenho vivas minhas raízes em MMORPGs e games online, aplicando meus conhecimentos para a área.
 
