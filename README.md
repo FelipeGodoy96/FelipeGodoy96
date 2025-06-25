@@ -11,15 +11,15 @@ Meu nome é Felipe Godoy, sou imigrante brasileiro em Portugal, entusiasta e apa
 
 ### Sobre mim
 
-Atualmente estou em transição estratégica da área de atendimento ao cliente para a área de tecnologia. Tenho uma base sólida em desenvolvimento web fullstack e uma mente orientada para automação e melhoria de processos, tenho explorado intensamente projetos práticos que envolvem desde bots autônomos até scripts que otimizam tarefas empresariais do dia a dia.
+Atualmente estou em transição para área de TI, buscando mais especificamente cargos como DevOps ou Cloud Engineer. Tenho uma base em desenvolvimento web e uma enorme curiosidade e vontade de aprender, de maneira que a agregar conhecimento unindo praticidade para meus projetos. 
 
-Nos últimos anos, meu foco tem sido aprofundar habilidades técnicas em ambientes Linux, automação com Python, e infraestrutura em cloud e containers (AWS, Docker, Ansible). Paralelamente, mantenho vivas minhas raízes em comunicação e suporte, trazendo para a área técnica a sensibilidade de quem já lidou diretamente com o cliente final.
+Nos últimos anos, meu foco tem sido aprofundar habilidades técnicas em ambientes Linux, automação com Python, programação em C++, infraestrutura em cloud e containers (AWS, Docker, IaC). Paralelamente, mantenho vivas minhas raízes em MMORPGs e games online, aplicando meus conhecimentos para a área.
 
-Atualmente trabalho com suporte inbound técnico, ao mesmo tempo em que estudo tecnologias de cloud e automação com o objetivo de atuar futuramente como DevOps Engineer ou Automation Specialist. Acredito que a tecnologia só tem valor real quando resolve problemas — e é com essa mentalidade que construo meus projetos e contribuo com as equipes.
+Formalmente trabalho com suporte inbound técnico, ao mesmo tempo em que estudo essas tecnologias. Acredito que a tecnologia possui um potencial infinito e amplamente explorável — e é com essa mentalidade que construo meus projetos.
 
-Também estou trabalhando paralelamente num projeto pessoal que engloba todos os conhecimentos de áreas de tecnologia e desenvolvimento em um projeto só: um MMORPG. Mais detalhes por enquanto fica em segredo hehe
+Atualmente estou num projeto pessoal que engloba todos os conhecimentos dessas áreas de tecnologia e desenvolvimento em um projeto só: um servidor MMORPG. 
 
-No GitHub você vai encontrar os bastidores dessa jornada: automações úteis, experimentos técnicos e provas de que a curiosidade pode se transformar em impacto.
+Aqui você vai encontrar os bastidores dessa jornada: automações, experimentos técnicos e provas de que a curiosidade pode se transformar e impactar de alguma maneira útil.
 
 <br/>
 
